@@ -2,115 +2,159 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Prof Hernan Huwyler MBA, CPA, CAIO
+  given: Hernan
+  family: Huwyler
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  postnominals:
+  - MBA
+  - CPA
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🇨🇭"
+role: Senior Manager of AI Governance and Digital Compliance
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+  Hernan Huwyler is an AI governance and quantitative risk leader. He leads the 
+  Applied AI Lab at Capgemini and is an Executive Professor at IE Business School 
+  and IE Law School, where he has taught executive education since 2013. 
+  He has trained more than 1,500 compliance, privacy, AI and risk professionals.
+  
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: IE Executive Education
+    url: https://www.ie.edu/lifelong-learning/why-ie/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
+    url: https://x.com/hewyler
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/Hwyler
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/hernanwyler/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=UsgmZj4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0002-1249-7387
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - AI Governance
+  - Quantitative Risk Management
+  - GRC AI
+  - EU AI Act, NIS 2, DORA, GDPR, Digital Compliance
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MBA
+  - degree: CPA
+  - degree: CAIO
+  - degree: Claude Certified Architect Professional (CCAR-P)
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Senior Manager of AI Governance and Digital Compliance
+    org: Capgemini
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Leads the Applied AI Lab. Works across AI governance, quantitative risk management and GRC.
+  - role: Executive Professor
+    org: IE Business School and IE Law School
+    start: 2013-01-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Has taught executive education since 2013 and trained more than 1,500 compliance, privacy, AI and risk professionals.
 
 skills:
-  - name: Technical Skills
+  - name: Focus Areas
     items:
-      - label: Python
+      - label: AI Governance
         level: 5
-      - label: Machine Learning
+      - label: Quantitative Risk Management
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
+      - label: GRC
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: EU AI Act
+        level: 5
+
 
 languages:
   - name: English
     level: 5
     label: Native
   - name: Spanish
-    level: 4
+    level: 5
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: "Anthropic Claude Certified Architect Professional (CCAR-P)"
+    awarder: "Anthropic"
+    date: "2026-09-01"
+    summary: "Anthropic's advanced credential for solution architects and GRC leaders on designing, securing and governing enterprise Claude AI deployments."
+    icon: hero/trophy
+  - title: "ISO/IEC 42001 Certification in AI Management Systems"
+    awarder: "Edcorner Learning"
+    date: "2026-05-01"
+    summary: "Credential ID 83247."
+    icon: hero/trophy
+  - title: "CRISC: Certified in Risk and Information Systems Control"
+    awarder: "Packt"
+    date: "2025-10-01"
+    summary: "Specialization completion certificate issued via Coursera. Credential ID B1A1ETJGK9N5."
+    icon: hero/trophy
+  - title: "Professional Certificate in Regulatory Compliance"
+    awarder: "MTF Institute of Management, Technology & Finance"
+    date: "2025-05-01"
+    summary: "Credential ID 1498 B1."
+    icon: hero/trophy
+  - title: "Certified Chief AI Officer"
+    awarder: "Information Security Institute - Copenhagen Compliance"
+    date: "2024-11-01"
+    summary: "Program Lead and Instructor. Professional credential on AI governance, risk management, compliance and implementation, aligned with ISO 42001, ISO 23894, the NIST AI RMF and the EU AI Act. Credential ID 2025AIEL1083."
+    icon: hero/trophy
+  - title: "ISO 37301 Compliance Management Systems"
+    awarder: "RIGCERT"
+    date: "2022-11-01"
+    summary: "Expired Nov 2025."
+    icon: hero/trophy
+  - title: "Quantitative Finance with R - Portfolio optimization, asset pricing, and risk management with R"
+    awarder: "Packt"
+    date: "2022-11-01"
+    summary: "Credential ID 6135292."
+    icon: hero/trophy
+  - title: "PMI-RMP/IIBA-ECBA Risk Management for Business Analysts"
+    awarder: "Noble Work Foundation"
+    date: "2022-10-01"
+    summary: "Expired Oct 2025."
+    icon: hero/trophy
+  - title: "CISRM - Certified Information Systems Risk Manager"
+    awarder: "Mile2 Cybersecurity Institute"
+    date: "2021-08-01"
+    summary: "Certification in information systems risk management."
+    icon: hero/trophy
+  - title: "CISSP - Certified Information Systems Security Professional"
+    awarder: "Cybrary"
+    date: "2021-01-01"
+    summary: "Course completion certificate issued by Cybrary. Expired Jan 2024. Credential ID CC-833009."
+    icon: hero/trophy
+  - title: "Cybersecurity Compliance Framework & System Administration"
+    awarder: "IBM Cybersecurity Analyst Professional Certificate"
+    date: "2020-09-01"
+    summary: "Part of the IBM Cybersecurity Analyst Professional Certificate."
+    icon: hero/trophy
+  - title: "PMI Agile Certified Practitioner (PMI-ACP)"
+    awarder: "Agile Basics"
+    date: "2019-09-01"
+    summary: "Agile practice and project management training."
+    icon: hero/trophy
+  - title: "CPI - AIEM Methodology - Continuous Improvement & Change Management"
+    awarder: "Deloitte"
+    date: "2017-08-01"
+    summary: "Continuous improvement and change management methodology."
+    icon: hero/trophy
+  - title: "IT Risk Assessment Practices"
+    awarder: "Packt"
+    date: "2015-10-01"
+    summary: "Credential ID 8AV6TZ0NYVNJ."
+    icon: hero/trophy
+  - title: "Governance and Risk Management"
+    awarder: "Packt"
+    date: "2015-10-01"
+    summary: "Credential ID 3E819M4KSBOZ."
     icon: hero/trophy
