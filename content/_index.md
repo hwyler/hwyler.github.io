@@ -9,7 +9,6 @@ image:
   caption: "Portrait of Hernan Huwyler"
 seo:
   title: "{brand}"
-
 sections:
   - block: resume-biography-3
     content:
@@ -126,26 +125,21 @@ sections:
       title: Common Questions
       text: |-
         ### Who is Hernan Huwyler?
-
         Hernan Huwyler is an AI governance and enterprise risk leader, Academic Director, and Executive Professor. His work brings together AI, quantitative risk modeling, compliance, internal audit, cybersecurity, and technology transformation.
 
         ### What does Hernan Huwyler write about?
-
         He writes about making AI governance operational: assessing AI risk, assigning accountability, translating regulation and standards into controls, managing vendors and data, testing systems, monitoring changes, and documenting evidence. His broader writing also covers governance, risk management, and compliance.
 
         ### Which AI frameworks does his work address?
-
         His professional focus includes the EU AI Act, ISO/IEC 42001, ISO/IEC 23894, and the NIST AI Risk Management Framework. The goal is to translate frameworks into responsibilities and practices that fit an organization's systems, risk appetite, and operating environment.
 
         ### Who should read the books?
-
         The books are intended for practitioners and decision-makers, including Chief AI Officers, AI governance professionals, risk managers, compliance officers, internal auditors, privacy and security teams, AI architects, engineers, and business leaders.
 
         ### Where can I find the latest articles and books?
-
         Read the AI Governance and Risk Management blog at [hernanhuwyler.wordpress.com](https://hernanhuwyler.wordpress.com/), browse the governance, risk, and compliance archive at [My Daily Executive](https://mydailyexecutive.blogspot.com/), and use the Amazon links in the Books section for the book listings and sample.
 
-    - block: collection
+  - block: collection
     id: latest-articles
     content:
       title: Latest Blog Articles
