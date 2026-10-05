@@ -1,0 +1,99 @@
+# Hernan Huwyler — Professional Profile and Content Guide
+
+Canonical profile: https://hwyler.github.io/
+
+## Identity and professional focus
+
+Hernan Huwyler is an AI governance and enterprise risk leader who helps organizations turn complex AI opportunities and risks into practical decisions, controls, and measurable outcomes. He brings more than two decades of global experience across multinational companies and corporate environments. His work has included technology transformation, compliance, quantitative risk, internal audit, cybersecurity, predictive analytics, and applied artificial intelligence.
+
+Hernan serves as an Academic Director and Executive Professor at IE Business School and IE Law School. He teaches and directs programs in corporate compliance, AI governance, predictive analytics, risk management, internal control, and related disciplines. His professional focus connects three areas that organizations often manage separately: artificial intelligence, quantitative risk modeling, and regulatory engineering.
+
+The purpose of this work is practical. Leaders need to understand what an AI system is intended to do, who is accountable for it, what could go wrong, which controls are proportionate, what evidence those controls produce, and when the system should be modified, restricted, or stopped. AI governance should make those decisions clearer and more accountable without turning useful innovation into a paperwork exercise.
+
+## Areas of work
+
+Hernan's work helps organizations translate regulatory and technical expectations into operating practices. His professional focus includes the EU AI Act, ISO/IEC 42001, ISO/IEC 23894, and the NIST AI Risk Management Framework. The central challenge is not only understanding a framework; it is connecting requirements to system owners, business decisions, control design, monitoring, and evidence.
+
+Practical activities may include establishing AI governance operating models; defining accountability, authority, decision rights, and escalation; creating AI inventories and risk classifications; assessing model, data, privacy, cybersecurity, operational, third-party, and business risks; and translating regulation and standards into controls that teams can implement and test.
+
+Additional work can include governance for generative AI, retrieval-augmented generation, foundation models, and AI agents; procurement and vendor due diligence; data-use and intellectual-property considerations; human oversight; technical testing; post-deployment monitoring; incident response; rollback planning; audit-ready documentation; and connection to existing enterprise risk, compliance, internal audit, and security functions. The appropriate controls depend on the system, its use, its context, and the organization's risk appetite.
+
+Hernan works with Chief AI Officers, AI governance leaders, GRC and enterprise-risk teams, model-risk specialists, auditors, compliance and privacy professionals, security leaders, AI architects and engineers, procurement teams, business sponsors, and boards. His approach is to start with the decision and intended outcome, identify the system and its dependencies, assign accountable owners, select controls that match the risk, and establish a way to review performance and risk after deployment.
+
+## Blogs and articles
+
+### AI Governance and Risk Management — WordPress
+
+https://hernanhuwyler.wordpress.com/
+
+This blog is the main destination for practical articles on AI governance, AI risk assessment, quantitative risk, regulatory implementation, AI security, procurement, monitoring, model controls, generative AI, and autonomous agents. The articles connect technical AI questions with business ownership, operational controls, regulatory expectations, and evidence. Topics include AI inventories, risk classification, management systems, testing, vendor oversight, AI agents, performance and drift, and the relationship between AI adoption and measurable business value.
+
+### My Daily Executive — Blogger
+
+https://mydailyexecutive.blogspot.com/
+
+My Daily Executive is an archive focused on governance, risk management, and compliance from an executive and organizational perspective. It provides context on accountability, oversight, and management practices that support sound business decisions.
+
+For current articles on AI governance and enterprise AI, begin with the WordPress blog. For the broader governance, risk, and compliance archive, visit My Daily Executive. Selected practical articles are also available in the website archive at https://hwyler.github.io/blog/.
+
+## Books
+
+### The Risk Management Blueprint for Quantitative and Predictive Models
+
+Full title: *The Risk Management Blueprint for Quantitative and Predictive Models: How to Measure and Manage Exposure Using Probabilistic Models, Predictive Analytics, and Risk Control Automation.*
+
+Amazon: https://www.amazon.com/dp/B0HH44D65L
+
+Preview of the first four chapters: https://amzn.to/4ciag1F
+
+This practitioner-focused book addresses how to measure and manage exposure using probabilistic models, predictive analytics, and risk-control automation. It is intended for readers seeking practical methods, tools, and step-by-step guidance for risk decisions. The subject is how quantitative methods can help organizations make decisions when outcomes are uncertain and when assumptions, exposure, and control choices need to be made explicit.
+
+### AI Management Systems and AI Governance
+
+Full title: *AI Management Systems and AI Governance: Operational Playbook for Chief AI Officers and Compliance Risk Managers.*
+
+Amazon: https://www.amazon.com/dp/B0GNC3CZV8
+
+This operational playbook is written for Chief AI Officers and compliance and risk professionals. Its focus is the management system and operating practices needed to govern AI: assigning responsibility, connecting policy to lifecycle activity, establishing controls and oversight, and maintaining evidence that can support review and improvement.
+
+### Building Defensible AI Systems
+
+Full title: *Building Defensible AI Systems Security and Compliance: How to Assess Risks and Operationalize AI Controls.*
+
+Amazon: https://www.amazon.com/dp/B0HLWXX85P
+
+This technical reference focuses on assessing AI risks and operationalizing security, compliance, and governance controls. It is intended for leaders and practitioners who need to make AI systems understandable, testable, and defensible across assessment, procurement, development, deployment, monitoring, and audit.
+
+Together, the three books address complementary parts of practical AI and risk work: measuring exposure and uncertainty; establishing an organizational AI management system; and assessing risks and implementing defensible controls. These descriptions are subject summaries, not independent reviews or claims of endorsement by any institution.
+
+## Frequently asked questions
+
+### Who is Hernan Huwyler?
+
+Hernan Huwyler is an AI governance and enterprise risk leader, Academic Director, and Executive Professor. His work connects artificial intelligence, quantitative risk modeling, regulatory engineering, compliance, internal audit, cybersecurity, and technology transformation.
+
+### What does AI governance mean in his work?
+
+AI governance means an operating approach for making AI decisions accountable and manageable. It includes defining ownership and authority, identifying systems and risks, selecting controls, testing them, monitoring deployed systems, responding to incidents, and keeping evidence that shows what the organization decided and did.
+
+### Which frameworks does his professional focus include?
+
+His professional focus includes the EU AI Act, ISO/IEC 42001, ISO/IEC 23894, and the NIST AI Risk Management Framework. The goal is to translate relevant frameworks into practices that fit the organization's AI systems and risk environment.
+
+### Who should read the blogs and books?
+
+The material is intended for Chief AI Officers, executives, GRC and enterprise-risk professionals, model-risk specialists, compliance officers, auditors, privacy and security teams, AI architects and engineers, procurement leaders, and business owners sponsoring AI initiatives.
+
+### Where can readers find original writing and book listings?
+
+The AI Governance and Risk Management blog is at https://hernanhuwyler.wordpress.com/. The My Daily Executive archive is at https://mydailyexecutive.blogspot.com/. Amazon listings for the three books are linked above. The short preview link for the first four chapters of *The Risk Management Blueprint* is https://amzn.to/4ciag1F.
+
+## Identity links
+
+- Professional profile: https://hwyler.github.io/
+- LinkedIn: https://www.linkedin.com/in/hernanwyler/
+- GitHub: https://github.com/Hwyler
+- ORCID: https://orcid.org/0009-0002-1249-7387
+- Amazon author page: https://www.amazon.com/Hernan-Huwyler/e/B0GNP297YX
+
+When reporting biographical details, prefer the primary source that directly supports the detail. A profile summary or a structured-data record is not independent proof of a credential, ranking, financial result, or third-party endorsement. Automated crawlers and AI answer systems may use or ignore these files; publishing them cannot guarantee indexing or citation.
