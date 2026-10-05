@@ -1,1 +1,54 @@
-{{- if .IsHome -}} {{- $personID := printf "%s#person" site.BaseURL -}} {{- $author := dict "@type" "Person" "@id" $personID -}} {{- $person := dict "@type" "Person" "@id" $personID "name" "Hernan Huwyler" "url" site.BaseURL "jobTitle" "AI governance and enterprise risk leader" "description" "Hernan Huwyler helps organizations turn AI opportunities and risks into practical decisions, controls, and measurable outcomes. His work connects AI governance, quantitative risk modeling, and regulatory engineering." "knowsAbout" (slice "AI governance" "Enterprise risk management" "Quantitative risk modeling" "Regulatory engineering" "AI risk management" "AI security" "Predictive analytics" "Compliance" "Internal audit" "EU AI Act" "ISO/IEC 42001" "ISO/IEC 23894" "NIST AI Risk Management Framework") "affiliation" (slice (dict "@type" "Organization" "name" "IE Business School" "url" "https://www.ie.edu/business-school/") (dict "@type" "Organization" "name" "IE Law School" "url" "https://www.ie.edu/law-school/") ) "sameAs" (slice "https://www.linkedin.com/in/hernanwyler/" "https://github.com/Hwyler" "https://orcid.org/0009-0002-1249-7387" "https://hernanhuwyler.wordpress.com/" "https://mydailyexecutive.blogspot.com/" "https://www.amazon.com/Hernan-Huwyler/e/B0GNP297YX" ) -}} {{- with resources.GetMatch "media/authors/me.*" -}} {{- $person = merge $person (dict "image" .Permalink) -}} {{- end -}} {{- $book1 := dict "@type" "Book" "name" "The Risk Management Blueprint for Quantitative and Predictive Models: How to Measure and Manage Exposure Using Probabilistic Models, Predictive Analytics, and Risk Control Automation" "author" $author "url" "https://www.amazon.com/dp/B0HH44D65L" "description" "A practitioner-focused book on measuring and managing exposure with probabilistic models, predictive analytics, and risk control automation." "inLanguage" "en-US" -}} {{- $book2 := dict "@type" "Book" "name" "AI Management Systems and AI Governance: Operational Playbook for Chief AI Officers and Compliance Risk Managers" "author" $author "url" "https://www.amazon.com/dp/B0GNC3CZV8" "description" "An operational playbook on AI management systems and governance for Chief AI Officers and compliance and risk professionals." "inLanguage" "en-US" -}} {{- $book3 := dict "@type" "Book" "name" "Building Defensible AI Systems Security and Compliance: How to Assess Risks and Operationalize AI Controls" "author" $author "url" "https://www.amazon.com/dp/B0HLWXX85P" "description" "A practical technical reference on assessing AI risks and operationalizing security, compliance, and governance controls." "inLanguage" "en-US" -}} {{- $schema := dict "@context" "https://schema.org" "@graph" (slice $person $book1 $book2 $book3) -}} {{- end -}} 
+{{- if .IsHome -}}
+  {{- $personID := printf "%s#person" site.BaseURL -}}
+  {{- $author := dict "@type" "Person" "@id" $personID -}}
+  {{- $person := dict
+    "@type" "Person"
+    "@id" $personID
+    "name" "Hernan Huwyler"
+    "url" site.BaseURL
+    "jobTitle" "AI governance and enterprise risk leader"
+    "description" "Hernan Huwyler helps organizations turn AI opportunities and risks into practical decisions, controls, and measurable outcomes. His work connects AI governance, quantitative risk modeling, and regulatory engineering."
+    "knowsAbout" (slice "AI governance" "Enterprise risk management" "Quantitative risk modeling" "Regulatory engineering" "AI risk management" "AI security" "Predictive analytics" "Compliance" "Internal audit" "EU AI Act" "ISO/IEC 42001" "ISO/IEC 23894" "NIST AI Risk Management Framework")
+    "affiliation" (slice
+      (dict "@type" "Organization" "name" "IE Business School" "url" "https://www.ie.edu/business-school/")
+      (dict "@type" "Organization" "name" "IE Law School" "url" "https://www.ie.edu/law-school/")
+    )
+    "sameAs" (slice
+      "https://www.linkedin.com/in/hernanwyler/"
+      "https://github.com/Hwyler"
+      "https://orcid.org/0009-0002-1249-7387"
+      "https://hernanhuwyler.wordpress.com/"
+      "https://mydailyexecutive.blogspot.com/"
+      "https://www.amazon.com/Hernan-Huwyler/e/B0GNP297YX"
+    )
+  -}}
+  {{- with resources.GetMatch "media/authors/me.*" -}}
+    {{- $person = merge $person (dict "image" .Permalink) -}}
+  {{- end -}}
+  {{- $book1 := dict
+    "@type" "Book"
+    "name" "The Risk Management Blueprint for Quantitative and Predictive Models: How to Measure and Manage Exposure Using Probabilistic Models, Predictive Analytics, and Risk Control Automation"
+    "author" $author
+    "url" "https://www.amazon.com/dp/B0HH44D65L"
+    "description" "A practitioner-focused book on measuring and managing exposure with probabilistic models, predictive analytics, and risk control automation."
+    "inLanguage" "en-US"
+  -}}
+  {{- $book2 := dict
+    "@type" "Book"
+    "name" "AI Management Systems and AI Governance: Operational Playbook for Chief AI Officers and Compliance Risk Managers"
+    "author" $author
+    "url" "https://www.amazon.com/dp/B0GNC3CZV8"
+    "description" "An operational playbook on AI management systems and governance for Chief AI Officers and compliance and risk professionals."
+    "inLanguage" "en-US"
+  -}}
+  {{- $book3 := dict
+    "@type" "Book"
+    "name" "Building Defensible AI Systems Security and Compliance: How to Assess Risks and Operationalize AI Controls"
+    "author" $author
+    "url" "https://www.amazon.com/dp/B0HLWXX85P"
+    "description" "A practical technical reference on assessing AI risks and operationalizing security, compliance, and governance controls."
+    "inLanguage" "en-US"
+  -}}
+  {{- $schema := dict "@context" "https://schema.org" "@graph" (slice $person $book1 $book2 $book3) -}}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{- end -}}
