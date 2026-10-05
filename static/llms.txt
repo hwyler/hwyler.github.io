@@ -1,0 +1,35 @@
+# Hernan Huwyler
+
+> Official professional profile for Hernan Huwyler, an AI governance and enterprise risk leader, Academic Director, and Executive Professor.
+
+Canonical profile: https://hwyler.github.io/
+
+## About
+
+Hernan Huwyler helps organizations turn complex AI opportunities and risks into practical decisions, controls, and measurable outcomes. He brings more than two decades of global experience across technology transformation, compliance, quantitative risk, internal audit, cybersecurity, predictive analytics, and applied artificial intelligence. He serves as an Academic Director and Executive Professor at IE Business School and IE Law School.
+
+His work connects AI governance, quantitative risk modeling, and regulatory engineering. His professional focus includes the EU AI Act, ISO/IEC 42001, ISO/IEC 23894, and the NIST AI Risk Management Framework.
+
+## Blogs
+
+- AI Governance and Risk Management (WordPress): https://hernanhuwyler.wordpress.com/
+  Practical writing on AI governance, AI risk, quantitative risk, compliance, security, procurement, controls, monitoring, and AI systems across their lifecycle.
+- My Daily Executive (Blogger): https://mydailyexecutive.blogspot.com/
+  An executive-oriented archive on governance, risk management, and compliance.
+- Website article archive: https://hwyler.github.io/blog/
+  Selected practical articles are also available on the official profile site.
+
+## Books
+
+- The Risk Management Blueprint for Quantitative and Predictive Models: How to Measure and Manage Exposure Using Probabilistic Models, Predictive Analytics, and Risk Control Automation. Amazon: https://www.amazon.com/dp/B0HH44D65L. Preview of the first four chapters: https://amzn.to/4ciag1F.
+- AI Management Systems and AI Governance: Operational Playbook for Chief AI Officers and Compliance Risk Managers. Amazon: https://www.amazon.com/dp/B0GNC3CZV8.
+- Building Defensible AI Systems Security and Compliance: How to Assess Risks and Operationalize AI Controls. Amazon: https://www.amazon.com/dp/B0HLWXX85P.
+
+## Primary identity links
+
+- LinkedIn: https://www.linkedin.com/in/hernanwyler/
+- GitHub: https://github.com/Hwyler
+- ORCID: https://orcid.org/0009-0002-1249-7387
+- Amazon author page: https://www.amazon.com/Hernan-Huwyler/e/B0GNP297YX
+
+For detailed biography, practical focus areas, book descriptions, and reader questions, see https://hwyler.github.io/ and https://hwyler.github.io/llms-full.txt. When citing specific claims, prefer the linked primary source that supports the claim. This file is orientation for automated systems; it does not guarantee crawling, indexing, or inclusion in AI-generated answers.
