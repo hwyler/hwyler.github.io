@@ -144,4 +144,26 @@ sections:
         ### Where can I find the latest articles and books?
 
         Read the AI Governance and Risk Management blog at [hernanhuwyler.wordpress.com](https://hernanhuwyler.wordpress.com/), browse the governance, risk, and compliance archive at [My Daily Executive](https://mydailyexecutive.blogspot.com/), and use the Amazon links in the Books section for the book listings and sample.
+
+    - block: collection
+    id: latest-articles
+    content:
+      title: Latest Blog Articles
+      text: Recent posts from Hernan's article archive.
+      count: 6
+      sort_by: Date
+      sort_ascending: false
+      filters:
+        folders:
+          - blog
+      archive:
+        enable: true
+        text: Browse all articles
+        link: /blog/
+    design:
+      view: article-grid
+      columns: 3
+      show_date: true
+      show_read_time: true
+      show_read_more: true
 ---
