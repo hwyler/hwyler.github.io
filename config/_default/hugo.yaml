@@ -1,25 +1,12 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
-# Website URL
-baseURL: 'https://example.com/'
-
-############################
-## LANGUAGE
-############################
+# Hugo site configuration for hwyler.github.io
+# Keep the public Pages URL exact so canonical links, social metadata, and the sitemap agree.
+title: "Hernan Huwyler"
+baseURL: "https://hwyler.github.io/"
 
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-############################
-## PAGE OPTIONS
-############################
 
 cascade:
   - target:
@@ -27,12 +14,9 @@ cascade:
       kind: page
     outputs: [HTML, present]
 
-############################
-## ADVANCED
-############################
-
 build:
   writeStats: true
+
 enableGitInfo: false
 summaryLength: 30
 pagination:
@@ -47,9 +31,15 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 90
   anchor: smart
-  hint: picture
+  jpeg:
+    quality: 90
+  webp:
+    quality: 90
+    hint: picture
+  avif:
+    quality: 90
+    hint: picture
 timeout: 600000
 taxonomies:
   author: authors
